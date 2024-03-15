@@ -3,6 +3,7 @@
 <p align="center">
     <img src="./gambar-petunjuk/google-drive-icon-logo.png" alt="google-drive-icon-logo" style="display: block; width: 35%; height: auto;">
     <img src="./gambar-petunjuk/sheets-icon-logo.png" alt="sheets-icon-logo" style="display: block; width: 24%; height: auto;">
+    <img src="./gambar-petunjuk/webhook-icon-logo.png" alt="webhook-icon-logo" style="display: block; width: 35%; height: auto;">
 </p>
 
 ***
