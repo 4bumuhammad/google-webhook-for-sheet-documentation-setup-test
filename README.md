@@ -99,3 +99,9 @@ Apps Scripts for Settings | `https://script.google.com/home/usersettings`
 <p align="center">
     <img src="./gambar-petunjuk/ss_stages_020.png" alt="ss_stages_020" style="display: block; margin: 0 auto;">
 </p>
+
+---
+
+#### stages of implementing hit requests as an experiment against webhook-for-sheets using Postman
+
+---
