@@ -39,3 +39,20 @@ Apps Scripts for Settings | `https://script.google.com/home/usersettings`
 <p align="center">
     <img src="./gambar-petunjuk/ss_stages_005.png" alt="ss_stages_005" style="display: block; margin: 0 auto;">
 </p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_stages_006.png" alt="ss_stages_006" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_stages_007.png" alt="ss_stages_007" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_stages_008.png" alt="ss_stages_008" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_stages_009.png" alt="ss_stages_009" style="display: block; margin: 0 auto;">
+</p>
+
