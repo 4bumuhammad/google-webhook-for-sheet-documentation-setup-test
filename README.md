@@ -104,7 +104,6 @@ Apps Scripts for Settings | `https://script.google.com/home/usersettings`
 
 #### stages of implementing hit requests as an experiment against webhook-for-sheets using Postman
 
----
 
 <p align="center">
     <img src="./gambar-petunjuk/ss_stages_021.png" alt="ss_stages_021" style="display: block; margin: 0 auto;">
@@ -117,3 +116,7 @@ Apps Scripts for Settings | `https://script.google.com/home/usersettings`
 <p align="center">
     <img src="./gambar-petunjuk/ss_stages_023.png" alt="ss_stages_023" style="display: block; margin: 0 auto;">
 </p>
+
+
+
+---
