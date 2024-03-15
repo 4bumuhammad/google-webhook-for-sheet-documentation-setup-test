@@ -20,3 +20,6 @@
 ### &#x1F527; Apps Scripts for Settings
 
   `https://script.google.com/home/usersettings`
+
+
+## &#x1F3C5; App Script setup stages - native Webhooks for Google Sheets :
