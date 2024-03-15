@@ -1,4 +1,4 @@
-# Webhooks for Sheets - Google Workspace Add-on Documentation setup and test
+# &#x1F6A9; Webhooks for Sheets - Google Workspace Add-on Documentation setup and test
 
 
  Reference :
@@ -7,6 +7,6 @@
 
 
 
-### Apps Scripts for Settings
+### &#x1F527; Apps Scripts for Settings
 
   `https://script.google.com/home/usersettings`
