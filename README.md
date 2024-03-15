@@ -23,3 +23,12 @@
 
 
 ## &#x1F3C5; App Script setup stages - native Webhooks for Google Sheets :
+
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_stages_001.png" alt="ss_stages_001" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_stages_002.png" alt="ss_stages_002" style="display: block; margin: 0 auto;">
+</p>
