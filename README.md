@@ -118,8 +118,9 @@ Apps Scripts for Settings | `https://script.google.com/home/usersettings`
 &nbsp;
 
 
-#### stages of implementing hit requests as an experiment against webhook-for-sheets using Postman
+### &#x1F530; stages of implementing hit requests as an experiment against webhook-for-sheets using Postman
 
+&nbsp;
 
 <p align="center">
     <img src="./gambar-petunjuk/ss_stages_021.png" alt="ss_stages_021" style="display: block; margin: 0 auto;">
