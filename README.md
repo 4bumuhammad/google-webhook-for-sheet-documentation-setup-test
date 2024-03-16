@@ -118,7 +118,7 @@ Apps Scripts for Settings | `https://script.google.com/home/usersettings`
 &nbsp;
 
 
-### &#x1F530; stages of implementing hit requests as an experiment against webhook-for-sheets using Postman
+### &#x1F530; stages of implementing hit requests as an experiment against webhook-for-sheets using Postman :
 
 &nbsp;
 
